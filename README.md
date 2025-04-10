@@ -37,4 +37,3 @@
 
 ⭐ Obrigado pela visita, DM aberta para projetos!
 ```
-
