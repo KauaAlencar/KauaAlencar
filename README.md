@@ -21,8 +21,8 @@
 
 ### 📌 Repositórios em destaque
 
-🔧 [JAVA](https://github.com/KauaAlencar/Java) – Exercícios em JAVA 
-🌐 [HTML-CSS-JavaSript](https://github.com/seuusuario/meu-portfolio) – Portfólio pessoal com HTML, CSS e JavaScript  
+- 🔧 [JAVA](https://github.com/KauaAlencar/Java) – Exercícios em JAVA 
+- 🌐 [HTML-CSS-JavaSript](https://github.com/KauaAlencar/ProjetoCinema) – Projeto em JS/HTML/CSS
 
 
 
