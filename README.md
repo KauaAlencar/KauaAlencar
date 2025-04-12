@@ -21,9 +21,9 @@
 
 ### 📌 Repositórios em destaque
 
-🔧 [estrutura-de-dados](https://github.com/seuusuario/estrutura-de-dados) – Práticas com listas, filas, pilhas e árvores  
-🌐 [meu-portfolio](https://github.com/seuusuario/meu-portfolio) – Portfólio pessoal com HTML, CSS e JavaScript  
-🗃️ [api-crud-nodejs](https://github.com/seuusuario/api-crud-nodejs) – API simples com Node.js e banco de dados
+🔧 [JAVA](https://github.com/KauaAlencar/Java) – Exercícios em JAVA 
+🌐 [HTML-CSS-JavaSript](https://github.com/seuusuario/meu-portfolio) – Portfólio pessoal com HTML, CSS e JavaScript  
+
 
 
 ---
