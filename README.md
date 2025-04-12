@@ -31,7 +31,7 @@
 ### 📫 Entre em contato
 
 - LinkedIn: [linkedin.com/in/KauãAlencar](https://www.linkedin.com/in/kau%C3%A3-alencar-b15119215/)  
-- Email: seuemail@email.com
+- Email: kauacalencar10@gmail.com
 
 ---
 
