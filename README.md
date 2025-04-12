@@ -22,7 +22,7 @@
 ### 📌 Repositórios em destaque
 
 - 🔧 [JAVA](https://github.com/KauaAlencar/Java) – Exercícios em JAVA 
-- 🌐 [HTML-CSS-JavaSript](https://github.com/KauaAlencar/ProjetoCinema) – Projeto em JS/HTML/CSS
+- 🌐 [HTML-CSS-JavaSript](https://github.com/KauaAlencar/ProjetoCinema) – Projeto Cinema em JS/HTML/CSS
 
 
 
