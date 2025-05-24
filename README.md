@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Kauã
 
-🎓 Estudante de **Sistemas da Informação** pela Universidade Presbiteriana Mackenzie – 3º semestre  
+🎓 Estudante de **Sistemas de Informação** pela Universidade Presbiteriana Mackenzie – 3º semestre  
 - 💻 Entusiasta por tecnologia, estratégia e gestão 
 - 📚 Atualmente o foco é a linguagem JAVA 
 - 🚀 Buscando oportunidades de aprendizado e crescimento profissional  
