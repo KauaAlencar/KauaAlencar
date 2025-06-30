@@ -12,7 +12,7 @@
 - Lógica de programação e algoritmos
 - Versionamento com Git e GitHub
 - HTML, CSS e JavaScript
-- Python e Java (em progresso)
+- Python e Java 
 - Banco de Dados SQL
 - Redes de Computadores (fundamentos)
 - Estrutura de Dados (listas, pilhas, filas)
